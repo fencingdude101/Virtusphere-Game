@@ -64,7 +64,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="UIVA">
- <HintPath>E:/HeartWalker/Assets/Standard Assets/Scripts/Camera Scripts/UIVA.dll</HintPath>
+ <HintPath>C:/Users/grant/Desktop/Virtusphere-Game/Unity Projects/Reference Projects/HeartWalker/Assets/Standard Assets/Scripts/Camera Scripts/UIVA.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
