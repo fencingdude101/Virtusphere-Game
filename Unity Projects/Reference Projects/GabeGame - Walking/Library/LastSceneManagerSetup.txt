@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/grant/OneDrive/School/Semester II 2016/Game Development/Superman-
+    Space Defender/Assets/Scenes/MenuScene.unity
+  isLoaded: 1
+  isActive: 1

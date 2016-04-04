@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: 04e47926b4e30eb45b6af9adf9e1eb11
+timeCreated: 1459789935
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: GatePiece
+    100002: GatePiece1
+    100004: GatePiece2
+    100006: GatePiece3
+    100008: GatePiece4
+    100010: GatePiece5
+    100012: GatePiece7
+    100014: GatePiece8
+    100016: GatePiece9
+    100018: group
+    100020: group1
+    100022: group2
+    100024: group3
+    100026: group4
+    100028: Part1Group1
+    100030: Part1Group2
+    100032: pasted__group2
+    100034: pasted__group2 1
+    100036: pasted__RotatingPiece2
+    100038: pCube10
+    100040: pCube11
+    100042: pCube12
+    100044: pCube3
+    100046: pCube4
+    100048: pCube5
+    100050: pCube6
+    100052: pCube7
+    100054: pCube8
+    100056: pCube9
+    100058: Platform_Float
+    100060: Platform_Float1
+    100062: Platform_Float2
+    100064: Platform_Float3
+    100066: RotatingPiece2
+    100068: RotatingPiece3
+    100070: RotatingPiece4
+    100072: RotatingPiece5
+    100074: RotatingPiece6
+    100076: RotatingPiece7
+    100078: RotatingPiece8
+    100080: Spike
+    100082: Spike1
+    100084: Spike10
+    100086: Spike11
+    100088: Spike2
+    100090: Spike3
+    100092: Spike4
+    100094: Spike5
+    100096: Spike6
+    100098: Spike7
+    100100: Spike8
+    100102: Spike9
+    100104: Spike_Trap
+    100106: Spike_Trap1
+    100108: Spike_Trap10
+    100110: Spike_Trap11
+    100112: Spike_Trap12
+    100114: Spike_Trap13
+    100116: Spike_Trap2
+    100118: Spike_Trap3
+    100120: Spike_Trap4
+    100122: Spike_Trap5
+    100124: Spike_Trap6
+    100126: Spike_Trap7
+    100128: Spike_Trap8
+    100130: Spike_Trap9
+    100132: Spike_Traps_1
+    100134: SpikeTRaps2
+    100136: spiketraps3
+    100138: spiketraps4
+    100140: //RootNode
+    100142: transform1
+    100144: transform10
+    100146: transform11
+    100148: transform12
+    100150: transform13
+    100152: transform14
+    100154: transform15
+    100156: transform2
+    100158: transform3
+    100160: transform4
+    100162: transform5
+    100164: transform6
+    100166: transform7
+    100168: transform8
+    100170: transform9
+    400000: GatePiece
+    400002: GatePiece1
+    400004: GatePiece2
+    400006: GatePiece3
+    400008: GatePiece4
+    400010: GatePiece5
+    400012: GatePiece7
+    400014: GatePiece8
+    400016: GatePiece9
+    400018: group
+    400020: group1
+    400022: group2
+    400024: group3
+    400026: group4
+    400028: Part1Group1
+    400030: Part1Group2
+    400032: pasted__group2
+    400034: pasted__group2 1
+    400036: pasted__RotatingPiece2
+    400038: pCube10
+    400040: pCube11
+    400042: pCube12
+    400044: pCube3
+    400046: pCube4
+    400048: pCube5
+    400050: pCube6
+    400052: pCube7
+    400054: pCube8
+    400056: pCube9
+    400058: Platform_Float
+    400060: Platform_Float1
+    400062: Platform_Float2
+    400064: Platform_Float3
+    400066: RotatingPiece2
+    400068: RotatingPiece3
+    400070: RotatingPiece4
+    400072: RotatingPiece5
+    400074: RotatingPiece6
+    400076: RotatingPiece7
+    400078: RotatingPiece8
+    400080: Spike
+    400082: Spike1
+    400084: Spike10
+    400086: Spike11
+    400088: Spike2
+    400090: Spike3
+    400092: Spike4
+    400094: Spike5
+    400096: Spike6
+    400098: Spike7
+    400100: Spike8
+    400102: Spike9
+    400104: Spike_Trap
+    400106: Spike_Trap1
+    400108: Spike_Trap10
+    400110: Spike_Trap11
+    400112: Spike_Trap12
+    400114: Spike_Trap13
+    400116: Spike_Trap2
+    400118: Spike_Trap3
+    400120: Spike_Trap4
+    400122: Spike_Trap5
+    400124: Spike_Trap6
+    400126: Spike_Trap7
+    400128: Spike_Trap8
+    400130: Spike_Trap9
+    400132: Spike_Traps_1
+    400134: SpikeTRaps2
+    400136: spiketraps3
+    400138: spiketraps4
+    400140: //RootNode
+    400142: transform1
+    400144: transform10
+    400146: transform11
+    400148: transform12
+    400150: transform13
+    400152: transform14
+    400154: transform15
+    400156: transform2
+    400158: transform3
+    400160: transform4
+    400162: transform5
+    400164: transform6
+    400166: transform7
+    400168: transform8
+    400170: transform9
+    2300000: GatePiece
+    2300002: GatePiece1
+    2300004: GatePiece2
+    2300006: GatePiece3
+    2300008: GatePiece4
+    2300010: GatePiece5
+    2300012: GatePiece7
+    2300014: GatePiece8
+    2300016: GatePiece9
+    2300018: pasted__RotatingPiece2
+    2300020: pCube10
+    2300022: pCube11
+    2300024: pCube12
+    2300026: pCube3
+    2300028: pCube7
+    2300030: pCube8
+    2300032: pCube9
+    2300034: Platform_Float
+    2300036: Platform_Float1
+    2300038: Platform_Float2
+    2300040: Platform_Float3
+    2300042: RotatingPiece2
+    2300044: RotatingPiece3
+    2300046: RotatingPiece4
+    2300048: RotatingPiece5
+    2300050: RotatingPiece6
+    2300052: RotatingPiece7
+    2300054: RotatingPiece8
+    2300056: Spike_Trap
+    2300058: Spike_Trap1
+    2300060: Spike_Trap10
+    2300062: Spike_Trap11
+    2300064: Spike_Trap12
+    2300066: Spike_Trap13
+    2300068: Spike_Trap2
+    2300070: Spike_Trap3
+    2300072: Spike_Trap4
+    2300074: Spike_Trap5
+    2300076: Spike_Trap6
+    2300078: Spike_Trap7
+    2300080: Spike_Trap8
+    2300082: Spike_Trap9
+    3300000: GatePiece
+    3300002: GatePiece1
+    3300004: GatePiece2
+    3300006: GatePiece3
+    3300008: GatePiece4
+    3300010: GatePiece5
+    3300012: GatePiece7
+    3300014: GatePiece8
+    3300016: GatePiece9
+    3300018: pasted__RotatingPiece2
+    3300020: pCube10
+    3300022: pCube11
+    3300024: pCube12
+    3300026: pCube3
+    3300028: pCube7
+    3300030: pCube8
+    3300032: pCube9
+    3300034: Platform_Float
+    3300036: Platform_Float1
+    3300038: Platform_Float2
+    3300040: Platform_Float3
+    3300042: RotatingPiece2
+    3300044: RotatingPiece3
+    3300046: RotatingPiece4
+    3300048: RotatingPiece5
+    3300050: RotatingPiece6
+    3300052: RotatingPiece7
+    3300054: RotatingPiece8
+    3300056: Spike_Trap
+    3300058: Spike_Trap1
+    3300060: Spike_Trap10
+    3300062: Spike_Trap11
+    3300064: Spike_Trap12
+    3300066: Spike_Trap13
+    3300068: Spike_Trap2
+    3300070: Spike_Trap3
+    3300072: Spike_Trap4
+    3300074: Spike_Trap5
+    3300076: Spike_Trap6
+    3300078: Spike_Trap7
+    3300080: Spike_Trap8
+    3300082: Spike_Trap9
+    4300000: pCube3
+    4300002: GatePiece2
+    4300004: GatePiece5
+    4300006: GatePiece9
+    4300008: RotatingPiece2
+    4300010: pCube7
+    4300012: Platform_Float
+    4300014: Platform_Float1
+    4300016: Platform_Float2
+    4300018: GatePiece
+    4300020: GatePiece3
+    4300022: GatePiece7
+    4300024: GatePiece8
+    4300026: GatePiece4
+    4300028: GatePiece1
+    4300030: pasted__RotatingPiece2
+    4300032: RotatingPiece3
+    4300034: RotatingPiece4
+    4300036: RotatingPiece5
+    4300038: RotatingPiece6
+    4300040: RotatingPiece7
+    4300042: RotatingPiece8
+    4300044: Spike_Trap
+    4300046: Spike_Trap5
+    4300048: Spike_Trap9
+    4300050: Spike_Trap13
+    4300052: Spike_Trap1
+    4300054: Spike_Trap4
+    4300056: Spike_Trap8
+    4300058: Spike_Trap12
+    4300060: Spike_Trap3
+    4300062: Spike_Trap7
+    4300064: Spike_Trap11
+    4300066: Spike_Trap2
+    4300068: Spike_Trap6
+    4300070: Spike_Trap10
+    4300072: pCube8
+    4300074: pCube9
+    4300076: pCube10
+    4300078: pCube11
+    4300080: pCube12
+    4300082: Platform_Float3
+    6400000: GatePiece
+    6400002: GatePiece1
+    6400004: GatePiece2
+    6400006: GatePiece3
+    6400008: GatePiece4
+    6400010: GatePiece5
+    6400012: GatePiece7
+    6400014: GatePiece8
+    6400016: GatePiece9
+    6400018: pasted__RotatingPiece2
+    6400020: pCube10
+    6400022: pCube11
+    6400024: pCube12
+    6400026: pCube3
+    6400028: pCube7
+    6400030: pCube8
+    6400032: pCube9
+    6400034: Platform_Float
+    6400036: Platform_Float1
+    6400038: Platform_Float2
+    6400040: Platform_Float3
+    6400042: RotatingPiece2
+    6400044: RotatingPiece3
+    6400046: RotatingPiece4
+    6400048: RotatingPiece5
+    6400050: RotatingPiece6
+    6400052: RotatingPiece7
+    6400054: RotatingPiece8
+    6400056: Spike_Trap
+    6400058: Spike_Trap1
+    6400060: Spike_Trap10
+    6400062: Spike_Trap11
+    6400064: Spike_Trap12
+    6400066: Spike_Trap13
+    6400068: Spike_Trap2
+    6400070: Spike_Trap3
+    6400072: Spike_Trap4
+    6400074: Spike_Trap5
+    6400076: Spike_Trap6
+    6400078: Spike_Trap7
+    6400080: Spike_Trap8
+    6400082: Spike_Trap9
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GatePiece2
+        weight: 1
+      - path: GatePiece5
+        weight: 1
+      - path: GatePiece9
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pasted__RotatingPiece2
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group3
+        weight: 1
+      - path: group3/pasted__group2
+        weight: 1
+      - path: group4
+        weight: 1
+      - path: group4/pasted__group2 1
+        weight: 1
+      - path: Part1Group1
+        weight: 1
+      - path: Part1Group1/GatePiece
+        weight: 1
+      - path: Part1Group1/GatePiece3
+        weight: 1
+      - path: Part1Group1/GatePiece7
+        weight: 1
+      - path: Part1Group2
+        weight: 1
+      - path: Part1Group2/GatePiece1
+        weight: 1
+      - path: Part1Group2/GatePiece4
+        weight: 1
+      - path: Part1Group2/GatePiece8
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube4
+        weight: 1
+      - path: pCube4/transform13
+        weight: 1
+      - path: pCube5
+        weight: 1
+      - path: pCube5/transform15
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube6/transform14
+        weight: 1
+      - path: pCube7
+        weight: 1
+      - path: pCube8
+        weight: 1
+      - path: pCube9
+        weight: 1
+      - path: pCube10
+        weight: 1
+      - path: pCube11
+        weight: 1
+      - path: pCube12
+        weight: 1
+      - path: Platform_Float
+        weight: 1
+      - path: Platform_Float1
+        weight: 1
+      - path: Platform_Float2
+        weight: 1
+      - path: Platform_Float3
+        weight: 1
+      - path: RotatingPiece2
+        weight: 1
+      - path: RotatingPiece3
+        weight: 1
+      - path: RotatingPiece4
+        weight: 1
+      - path: RotatingPiece5
+        weight: 1
+      - path: RotatingPiece6
+        weight: 1
+      - path: RotatingPiece7
+        weight: 1
+      - path: RotatingPiece8
+        weight: 1
+      - path: Spike
+        weight: 1
+      - path: Spike/transform12
+        weight: 1
+      - path: Spike1
+        weight: 1
+      - path: Spike1/transform11
+        weight: 1
+      - path: Spike2
+        weight: 1
+      - path: Spike2/transform10
+        weight: 1
+      - path: Spike3
+        weight: 1
+      - path: Spike3/transform9
+        weight: 1
+      - path: Spike4
+        weight: 1
+      - path: Spike4/transform8
+        weight: 1
+      - path: Spike5
+        weight: 1
+      - path: Spike5/transform7
+        weight: 1
+      - path: Spike6
+        weight: 1
+      - path: Spike6/transform6
+        weight: 1
+      - path: Spike7
+        weight: 1
+      - path: Spike7/transform5
+        weight: 1
+      - path: Spike8
+        weight: 1
+      - path: Spike8/transform4
+        weight: 1
+      - path: Spike9
+        weight: 1
+      - path: Spike9/transform3
+        weight: 1
+      - path: Spike10
+        weight: 1
+      - path: Spike10/transform2
+        weight: 1
+      - path: Spike11
+        weight: 1
+      - path: Spike11/transform1
+        weight: 1
+      - path: Spike_Traps_1
+        weight: 1
+      - path: Spike_Traps_1/Spike_Trap
+        weight: 1
+      - path: Spike_Traps_1/Spike_Trap5
+        weight: 1
+      - path: Spike_Traps_1/Spike_Trap9
+        weight: 1
+      - path: Spike_Traps_1/Spike_Trap13
+        weight: 1
+      - path: SpikeTRaps2
+        weight: 1
+      - path: SpikeTRaps2/Spike_Trap1
+        weight: 1
+      - path: SpikeTRaps2/Spike_Trap4
+        weight: 1
+      - path: SpikeTRaps2/Spike_Trap8
+        weight: 1
+      - path: SpikeTRaps2/Spike_Trap12
+        weight: 1
+      - path: spiketraps3
+        weight: 1
+      - path: spiketraps3/Spike_Trap3
+        weight: 1
+      - path: spiketraps3/Spike_Trap7
+        weight: 1
+      - path: spiketraps3/Spike_Trap11
+        weight: 1
+      - path: spiketraps4
+        weight: 1
+      - path: spiketraps4/Spike_Trap2
+        weight: 1
+      - path: spiketraps4/Spike_Trap6
+        weight: 1
+      - path: spiketraps4/Spike_Trap10
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 75
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,590 @@
+fileFormatVersion: 2
+guid: d8f5396bb938c004e81e7f306badd993
+timeCreated: 1459787820
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CourseAnimate:GatePiece
+    100002: CourseAnimate:GatePiece1
+    100004: CourseAnimate:GatePiece2
+    100006: CourseAnimate:GatePiece3
+    100008: CourseAnimate:GatePiece4
+    100010: CourseAnimate:GatePiece5
+    100012: CourseAnimate:GatePiece7
+    100014: CourseAnimate:GatePiece8
+    100016: CourseAnimate:GatePiece9
+    100018: CourseAnimate:group
+    100020: CourseAnimate:group1
+    100022: CourseAnimate:group2
+    100024: CourseAnimate:group3
+    100026: CourseAnimate:group4
+    100028: CourseAnimate:Part1Group1
+    100030: CourseAnimate:Part1Group2
+    100032: CourseAnimate:pasted__group2
+    100034: CourseAnimate:pasted__group2 1
+    100036: CourseAnimate:pasted__RotatingPiece2
+    100038: CourseAnimate:pCube10
+    100040: CourseAnimate:pCube11
+    100042: CourseAnimate:pCube12
+    100044: CourseAnimate:pCube3
+    100046: CourseAnimate:pCube4
+    100048: CourseAnimate:pCube5
+    100050: CourseAnimate:pCube6
+    100052: CourseAnimate:pCube7
+    100054: CourseAnimate:pCube8
+    100056: CourseAnimate:pCube9
+    100058: CourseAnimate:Platform_Float3
+    100060: CourseAnimate:RotatingPiece2
+    100062: CourseAnimate:RotatingPiece3
+    100064: CourseAnimate:RotatingPiece4
+    100066: CourseAnimate:RotatingPiece5
+    100068: CourseAnimate:RotatingPiece6
+    100070: CourseAnimate:RotatingPiece7
+    100072: CourseAnimate:RotatingPiece8
+    100074: CourseAnimate:Spike
+    100076: CourseAnimate:Spike1
+    100078: CourseAnimate:Spike10
+    100080: CourseAnimate:Spike11
+    100082: CourseAnimate:Spike2
+    100084: CourseAnimate:Spike3
+    100086: CourseAnimate:Spike4
+    100088: CourseAnimate:Spike5
+    100090: CourseAnimate:Spike6
+    100092: CourseAnimate:Spike7
+    100094: CourseAnimate:Spike8
+    100096: CourseAnimate:Spike9
+    100098: CourseAnimate:Spike_Trap
+    100100: CourseAnimate:Spike_Trap1
+    100102: CourseAnimate:Spike_Trap10
+    100104: CourseAnimate:Spike_Trap11
+    100106: CourseAnimate:Spike_Trap12
+    100108: CourseAnimate:Spike_Trap13
+    100110: CourseAnimate:Spike_Trap2
+    100112: CourseAnimate:Spike_Trap3
+    100114: CourseAnimate:Spike_Trap4
+    100116: CourseAnimate:Spike_Trap5
+    100118: CourseAnimate:Spike_Trap6
+    100120: CourseAnimate:Spike_Trap7
+    100122: CourseAnimate:Spike_Trap8
+    100124: CourseAnimate:Spike_Trap9
+    100126: CourseAnimate:Spike_Traps_1
+    100128: CourseAnimate:SpikeTRaps2
+    100130: CourseAnimate:spiketraps3
+    100132: CourseAnimate:spiketraps4
+    100134: CourseAnimate:transform1
+    100136: CourseAnimate:transform10
+    100138: CourseAnimate:transform11
+    100140: CourseAnimate:transform12
+    100142: CourseAnimate:transform13
+    100144: CourseAnimate:transform14
+    100146: CourseAnimate:transform15
+    100148: CourseAnimate:transform2
+    100150: CourseAnimate:transform3
+    100152: CourseAnimate:transform4
+    100154: CourseAnimate:transform5
+    100156: CourseAnimate:transform6
+    100158: CourseAnimate:transform7
+    100160: CourseAnimate:transform8
+    100162: CourseAnimate:transform9
+    100164: //RootNode
+    400000: CourseAnimate:GatePiece
+    400002: CourseAnimate:GatePiece1
+    400004: CourseAnimate:GatePiece2
+    400006: CourseAnimate:GatePiece3
+    400008: CourseAnimate:GatePiece4
+    400010: CourseAnimate:GatePiece5
+    400012: CourseAnimate:GatePiece7
+    400014: CourseAnimate:GatePiece8
+    400016: CourseAnimate:GatePiece9
+    400018: CourseAnimate:group
+    400020: CourseAnimate:group1
+    400022: CourseAnimate:group2
+    400024: CourseAnimate:group3
+    400026: CourseAnimate:group4
+    400028: CourseAnimate:Part1Group1
+    400030: CourseAnimate:Part1Group2
+    400032: CourseAnimate:pasted__group2
+    400034: CourseAnimate:pasted__group2 1
+    400036: CourseAnimate:pasted__RotatingPiece2
+    400038: CourseAnimate:pCube10
+    400040: CourseAnimate:pCube11
+    400042: CourseAnimate:pCube12
+    400044: CourseAnimate:pCube3
+    400046: CourseAnimate:pCube4
+    400048: CourseAnimate:pCube5
+    400050: CourseAnimate:pCube6
+    400052: CourseAnimate:pCube7
+    400054: CourseAnimate:pCube8
+    400056: CourseAnimate:pCube9
+    400058: CourseAnimate:Platform_Float3
+    400060: CourseAnimate:RotatingPiece2
+    400062: CourseAnimate:RotatingPiece3
+    400064: CourseAnimate:RotatingPiece4
+    400066: CourseAnimate:RotatingPiece5
+    400068: CourseAnimate:RotatingPiece6
+    400070: CourseAnimate:RotatingPiece7
+    400072: CourseAnimate:RotatingPiece8
+    400074: CourseAnimate:Spike
+    400076: CourseAnimate:Spike1
+    400078: CourseAnimate:Spike10
+    400080: CourseAnimate:Spike11
+    400082: CourseAnimate:Spike2
+    400084: CourseAnimate:Spike3
+    400086: CourseAnimate:Spike4
+    400088: CourseAnimate:Spike5
+    400090: CourseAnimate:Spike6
+    400092: CourseAnimate:Spike7
+    400094: CourseAnimate:Spike8
+    400096: CourseAnimate:Spike9
+    400098: CourseAnimate:Spike_Trap
+    400100: CourseAnimate:Spike_Trap1
+    400102: CourseAnimate:Spike_Trap10
+    400104: CourseAnimate:Spike_Trap11
+    400106: CourseAnimate:Spike_Trap12
+    400108: CourseAnimate:Spike_Trap13
+    400110: CourseAnimate:Spike_Trap2
+    400112: CourseAnimate:Spike_Trap3
+    400114: CourseAnimate:Spike_Trap4
+    400116: CourseAnimate:Spike_Trap5
+    400118: CourseAnimate:Spike_Trap6
+    400120: CourseAnimate:Spike_Trap7
+    400122: CourseAnimate:Spike_Trap8
+    400124: CourseAnimate:Spike_Trap9
+    400126: CourseAnimate:Spike_Traps_1
+    400128: CourseAnimate:SpikeTRaps2
+    400130: CourseAnimate:spiketraps3
+    400132: CourseAnimate:spiketraps4
+    400134: CourseAnimate:transform1
+    400136: CourseAnimate:transform10
+    400138: CourseAnimate:transform11
+    400140: CourseAnimate:transform12
+    400142: CourseAnimate:transform13
+    400144: CourseAnimate:transform14
+    400146: CourseAnimate:transform15
+    400148: CourseAnimate:transform2
+    400150: CourseAnimate:transform3
+    400152: CourseAnimate:transform4
+    400154: CourseAnimate:transform5
+    400156: CourseAnimate:transform6
+    400158: CourseAnimate:transform7
+    400160: CourseAnimate:transform8
+    400162: CourseAnimate:transform9
+    400164: //RootNode
+    2300000: CourseAnimate:GatePiece
+    2300002: CourseAnimate:GatePiece1
+    2300004: CourseAnimate:GatePiece2
+    2300006: CourseAnimate:GatePiece3
+    2300008: CourseAnimate:GatePiece4
+    2300010: CourseAnimate:GatePiece5
+    2300012: CourseAnimate:GatePiece7
+    2300014: CourseAnimate:GatePiece8
+    2300016: CourseAnimate:GatePiece9
+    2300018: CourseAnimate:pasted__RotatingPiece2
+    2300020: CourseAnimate:pCube10
+    2300022: CourseAnimate:pCube11
+    2300024: CourseAnimate:pCube12
+    2300026: CourseAnimate:pCube3
+    2300028: CourseAnimate:pCube7
+    2300030: CourseAnimate:pCube8
+    2300032: CourseAnimate:pCube9
+    2300034: CourseAnimate:Platform_Float3
+    2300036: CourseAnimate:RotatingPiece2
+    2300038: CourseAnimate:RotatingPiece3
+    2300040: CourseAnimate:RotatingPiece4
+    2300042: CourseAnimate:RotatingPiece5
+    2300044: CourseAnimate:RotatingPiece6
+    2300046: CourseAnimate:RotatingPiece7
+    2300048: CourseAnimate:RotatingPiece8
+    2300050: CourseAnimate:Spike_Trap
+    2300052: CourseAnimate:Spike_Trap1
+    2300054: CourseAnimate:Spike_Trap10
+    2300056: CourseAnimate:Spike_Trap11
+    2300058: CourseAnimate:Spike_Trap12
+    2300060: CourseAnimate:Spike_Trap13
+    2300062: CourseAnimate:Spike_Trap2
+    2300064: CourseAnimate:Spike_Trap3
+    2300066: CourseAnimate:Spike_Trap4
+    2300068: CourseAnimate:Spike_Trap5
+    2300070: CourseAnimate:Spike_Trap6
+    2300072: CourseAnimate:Spike_Trap7
+    2300074: CourseAnimate:Spike_Trap8
+    2300076: CourseAnimate:Spike_Trap9
+    3300000: CourseAnimate:GatePiece
+    3300002: CourseAnimate:GatePiece1
+    3300004: CourseAnimate:GatePiece2
+    3300006: CourseAnimate:GatePiece3
+    3300008: CourseAnimate:GatePiece4
+    3300010: CourseAnimate:GatePiece5
+    3300012: CourseAnimate:GatePiece7
+    3300014: CourseAnimate:GatePiece8
+    3300016: CourseAnimate:GatePiece9
+    3300018: CourseAnimate:pasted__RotatingPiece2
+    3300020: CourseAnimate:pCube10
+    3300022: CourseAnimate:pCube11
+    3300024: CourseAnimate:pCube12
+    3300026: CourseAnimate:pCube3
+    3300028: CourseAnimate:pCube7
+    3300030: CourseAnimate:pCube8
+    3300032: CourseAnimate:pCube9
+    3300034: CourseAnimate:Platform_Float3
+    3300036: CourseAnimate:RotatingPiece2
+    3300038: CourseAnimate:RotatingPiece3
+    3300040: CourseAnimate:RotatingPiece4
+    3300042: CourseAnimate:RotatingPiece5
+    3300044: CourseAnimate:RotatingPiece6
+    3300046: CourseAnimate:RotatingPiece7
+    3300048: CourseAnimate:RotatingPiece8
+    3300050: CourseAnimate:Spike_Trap
+    3300052: CourseAnimate:Spike_Trap1
+    3300054: CourseAnimate:Spike_Trap10
+    3300056: CourseAnimate:Spike_Trap11
+    3300058: CourseAnimate:Spike_Trap12
+    3300060: CourseAnimate:Spike_Trap13
+    3300062: CourseAnimate:Spike_Trap2
+    3300064: CourseAnimate:Spike_Trap3
+    3300066: CourseAnimate:Spike_Trap4
+    3300068: CourseAnimate:Spike_Trap5
+    3300070: CourseAnimate:Spike_Trap6
+    3300072: CourseAnimate:Spike_Trap7
+    3300074: CourseAnimate:Spike_Trap8
+    3300076: CourseAnimate:Spike_Trap9
+    4300000: CourseAnimate:pCube3
+    4300002: CourseAnimate:GatePiece2
+    4300004: CourseAnimate:GatePiece5
+    4300006: CourseAnimate:GatePiece9
+    4300008: CourseAnimate:RotatingPiece2
+    4300010: CourseAnimate:pCube7
+    4300012: CourseAnimate:GatePiece
+    4300014: CourseAnimate:GatePiece3
+    4300016: CourseAnimate:GatePiece7
+    4300018: CourseAnimate:GatePiece8
+    4300020: CourseAnimate:GatePiece4
+    4300022: CourseAnimate:GatePiece1
+    4300024: CourseAnimate:pasted__RotatingPiece2
+    4300026: CourseAnimate:RotatingPiece3
+    4300028: CourseAnimate:RotatingPiece4
+    4300030: CourseAnimate:RotatingPiece5
+    4300032: CourseAnimate:RotatingPiece6
+    4300034: CourseAnimate:RotatingPiece7
+    4300036: CourseAnimate:RotatingPiece8
+    4300038: CourseAnimate:Spike_Trap
+    4300040: CourseAnimate:Spike_Trap5
+    4300042: CourseAnimate:Spike_Trap9
+    4300044: CourseAnimate:Spike_Trap13
+    4300046: CourseAnimate:Spike_Trap1
+    4300048: CourseAnimate:Spike_Trap4
+    4300050: CourseAnimate:Spike_Trap8
+    4300052: CourseAnimate:Spike_Trap12
+    4300054: CourseAnimate:Spike_Trap3
+    4300056: CourseAnimate:Spike_Trap7
+    4300058: CourseAnimate:Spike_Trap11
+    4300060: CourseAnimate:Spike_Trap2
+    4300062: CourseAnimate:Spike_Trap6
+    4300064: CourseAnimate:Spike_Trap10
+    4300066: CourseAnimate:pCube8
+    4300068: CourseAnimate:pCube9
+    4300070: CourseAnimate:pCube10
+    4300072: CourseAnimate:pCube11
+    4300074: CourseAnimate:pCube12
+    4300076: CourseAnimate:Platform_Float3
+    6400000: CourseAnimate:GatePiece
+    6400002: CourseAnimate:GatePiece1
+    6400004: CourseAnimate:GatePiece2
+    6400006: CourseAnimate:GatePiece3
+    6400008: CourseAnimate:GatePiece4
+    6400010: CourseAnimate:GatePiece5
+    6400012: CourseAnimate:GatePiece7
+    6400014: CourseAnimate:GatePiece8
+    6400016: CourseAnimate:GatePiece9
+    6400018: CourseAnimate:pasted__RotatingPiece2
+    6400020: CourseAnimate:pCube10
+    6400022: CourseAnimate:pCube11
+    6400024: CourseAnimate:pCube12
+    6400026: CourseAnimate:pCube3
+    6400028: CourseAnimate:pCube7
+    6400030: CourseAnimate:pCube8
+    6400032: CourseAnimate:pCube9
+    6400034: CourseAnimate:Platform_Float3
+    6400036: CourseAnimate:RotatingPiece2
+    6400038: CourseAnimate:RotatingPiece3
+    6400040: CourseAnimate:RotatingPiece4
+    6400042: CourseAnimate:RotatingPiece5
+    6400044: CourseAnimate:RotatingPiece6
+    6400046: CourseAnimate:RotatingPiece7
+    6400048: CourseAnimate:RotatingPiece8
+    6400050: CourseAnimate:Spike_Trap
+    6400052: CourseAnimate:Spike_Trap1
+    6400054: CourseAnimate:Spike_Trap10
+    6400056: CourseAnimate:Spike_Trap11
+    6400058: CourseAnimate:Spike_Trap12
+    6400060: CourseAnimate:Spike_Trap13
+    6400062: CourseAnimate:Spike_Trap2
+    6400064: CourseAnimate:Spike_Trap3
+    6400066: CourseAnimate:Spike_Trap4
+    6400068: CourseAnimate:Spike_Trap5
+    6400070: CourseAnimate:Spike_Trap6
+    6400072: CourseAnimate:Spike_Trap7
+    6400074: CourseAnimate:Spike_Trap8
+    6400076: CourseAnimate:Spike_Trap9
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CourseAnimate:GatePiece2
+        weight: 1
+      - path: CourseAnimate:GatePiece5
+        weight: 1
+      - path: CourseAnimate:GatePiece9
+        weight: 1
+      - path: CourseAnimate:group
+        weight: 1
+      - path: CourseAnimate:group1
+        weight: 1
+      - path: CourseAnimate:group1/CourseAnimate:pasted__RotatingPiece2
+        weight: 1
+      - path: CourseAnimate:group2
+        weight: 1
+      - path: CourseAnimate:group3
+        weight: 1
+      - path: CourseAnimate:group3/CourseAnimate:pasted__group2
+        weight: 1
+      - path: CourseAnimate:group4
+        weight: 1
+      - path: CourseAnimate:group4/CourseAnimate:pasted__group2 1
+        weight: 1
+      - path: CourseAnimate:Part1Group1
+        weight: 1
+      - path: CourseAnimate:Part1Group1/CourseAnimate:GatePiece
+        weight: 1
+      - path: CourseAnimate:Part1Group1/CourseAnimate:GatePiece3
+        weight: 1
+      - path: CourseAnimate:Part1Group1/CourseAnimate:GatePiece7
+        weight: 1
+      - path: CourseAnimate:Part1Group2
+        weight: 1
+      - path: CourseAnimate:Part1Group2/CourseAnimate:GatePiece1
+        weight: 1
+      - path: CourseAnimate:Part1Group2/CourseAnimate:GatePiece4
+        weight: 1
+      - path: CourseAnimate:Part1Group2/CourseAnimate:GatePiece8
+        weight: 1
+      - path: CourseAnimate:pCube3
+        weight: 1
+      - path: CourseAnimate:pCube4
+        weight: 1
+      - path: CourseAnimate:pCube4/CourseAnimate:transform13
+        weight: 1
+      - path: CourseAnimate:pCube5
+        weight: 1
+      - path: CourseAnimate:pCube5/CourseAnimate:transform15
+        weight: 1
+      - path: CourseAnimate:pCube6
+        weight: 1
+      - path: CourseAnimate:pCube6/CourseAnimate:transform14
+        weight: 1
+      - path: CourseAnimate:pCube7
+        weight: 1
+      - path: CourseAnimate:pCube8
+        weight: 1
+      - path: CourseAnimate:pCube9
+        weight: 1
+      - path: CourseAnimate:pCube10
+        weight: 1
+      - path: CourseAnimate:pCube11
+        weight: 1
+      - path: CourseAnimate:pCube12
+        weight: 1
+      - path: CourseAnimate:Platform_Float3
+        weight: 1
+      - path: CourseAnimate:RotatingPiece2
+        weight: 1
+      - path: CourseAnimate:RotatingPiece3
+        weight: 1
+      - path: CourseAnimate:RotatingPiece4
+        weight: 1
+      - path: CourseAnimate:RotatingPiece5
+        weight: 1
+      - path: CourseAnimate:RotatingPiece6
+        weight: 1
+      - path: CourseAnimate:RotatingPiece7
+        weight: 1
+      - path: CourseAnimate:RotatingPiece8
+        weight: 1
+      - path: CourseAnimate:Spike
+        weight: 1
+      - path: CourseAnimate:Spike/CourseAnimate:transform12
+        weight: 1
+      - path: CourseAnimate:Spike1
+        weight: 1
+      - path: CourseAnimate:Spike1/CourseAnimate:transform11
+        weight: 1
+      - path: CourseAnimate:Spike2
+        weight: 1
+      - path: CourseAnimate:Spike2/CourseAnimate:transform10
+        weight: 1
+      - path: CourseAnimate:Spike3
+        weight: 1
+      - path: CourseAnimate:Spike3/CourseAnimate:transform9
+        weight: 1
+      - path: CourseAnimate:Spike4
+        weight: 1
+      - path: CourseAnimate:Spike4/CourseAnimate:transform8
+        weight: 1
+      - path: CourseAnimate:Spike5
+        weight: 1
+      - path: CourseAnimate:Spike5/CourseAnimate:transform7
+        weight: 1
+      - path: CourseAnimate:Spike6
+        weight: 1
+      - path: CourseAnimate:Spike6/CourseAnimate:transform6
+        weight: 1
+      - path: CourseAnimate:Spike7
+        weight: 1
+      - path: CourseAnimate:Spike7/CourseAnimate:transform5
+        weight: 1
+      - path: CourseAnimate:Spike8
+        weight: 1
+      - path: CourseAnimate:Spike8/CourseAnimate:transform4
+        weight: 1
+      - path: CourseAnimate:Spike9
+        weight: 1
+      - path: CourseAnimate:Spike9/CourseAnimate:transform3
+        weight: 1
+      - path: CourseAnimate:Spike10
+        weight: 1
+      - path: CourseAnimate:Spike10/CourseAnimate:transform2
+        weight: 1
+      - path: CourseAnimate:Spike11
+        weight: 1
+      - path: CourseAnimate:Spike11/CourseAnimate:transform1
+        weight: 1
+      - path: CourseAnimate:Spike_Traps_1
+        weight: 1
+      - path: CourseAnimate:Spike_Traps_1/CourseAnimate:Spike_Trap
+        weight: 1
+      - path: CourseAnimate:Spike_Traps_1/CourseAnimate:Spike_Trap5
+        weight: 1
+      - path: CourseAnimate:Spike_Traps_1/CourseAnimate:Spike_Trap9
+        weight: 1
+      - path: CourseAnimate:Spike_Traps_1/CourseAnimate:Spike_Trap13
+        weight: 1
+      - path: CourseAnimate:SpikeTRaps2
+        weight: 1
+      - path: CourseAnimate:SpikeTRaps2/CourseAnimate:Spike_Trap1
+        weight: 1
+      - path: CourseAnimate:SpikeTRaps2/CourseAnimate:Spike_Trap4
+        weight: 1
+      - path: CourseAnimate:SpikeTRaps2/CourseAnimate:Spike_Trap8
+        weight: 1
+      - path: CourseAnimate:SpikeTRaps2/CourseAnimate:Spike_Trap12
+        weight: 1
+      - path: CourseAnimate:spiketraps3
+        weight: 1
+      - path: CourseAnimate:spiketraps3/CourseAnimate:Spike_Trap3
+        weight: 1
+      - path: CourseAnimate:spiketraps3/CourseAnimate:Spike_Trap7
+        weight: 1
+      - path: CourseAnimate:spiketraps3/CourseAnimate:Spike_Trap11
+        weight: 1
+      - path: CourseAnimate:spiketraps4
+        weight: 1
+      - path: CourseAnimate:spiketraps4/CourseAnimate:Spike_Trap2
+        weight: 1
+      - path: CourseAnimate:spiketraps4/CourseAnimate:Spike_Trap6
+        weight: 1
+      - path: CourseAnimate:spiketraps4/CourseAnimate:Spike_Trap10
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

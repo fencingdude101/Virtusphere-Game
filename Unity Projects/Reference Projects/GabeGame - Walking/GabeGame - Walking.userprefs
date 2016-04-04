@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\My Created ASsets\RestartLevel.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSVirtusphereWalker.cs" Line="84" Column="40" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js" Line="342" Column="25" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="7" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Utility Scripts\MeshCombineUtility.cs" Line="177" Column="21" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\GUIcollide.cs" Line="24" Column="39" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\MainMenuScript.js" Line="22" Column="28" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\LocationMenuScript.js" Line="18" Column="27" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\ActivateTrigger.cs" Line="43" Column="38" />
+      <File FileName="Assets\My Created ASsets\RestartLevel.js" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
